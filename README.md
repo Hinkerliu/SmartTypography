@@ -21,10 +21,10 @@ Before you start, make sure you have the following prerequisites installed:
 Installation steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/SmartTypesetting.git
+git clone https://github.com/your-username/SmartTypography.git
 
 2. Navigate to the project directory:
-cd SmartTypesetting
+cd SmartTypography
 
 3. Install the required dependencies:
 npm install
@@ -35,7 +35,7 @@ yarn install
 
 ## Usage
 
-To use SmartTypesetting, follow these steps:
+To use SmartTypography, follow these steps:
 
 1. Place your EPUB file in the `input` directory.
 2. Run the typesetting script:
