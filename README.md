@@ -2,7 +2,7 @@
 
 ## Introduction
 
-SmartTypography is an open-source project dedicated to the intelligent typesetting of EPUB e-books. It aims to enhance the readability and visual appeal of digital books by applying sophisticated algorithms to optimize text, images, and layout elements.
+SmartTypography is a sophisticated typesetting tool tailored for EPUB e-books, built upon the powerful InternLM large language model. It integrates natural language processing capabilities with advanced typesetting algorithms to deliver an exceptional reading experience. Designed for the digital age, SmartTypography addresses the increasing demand for e-books that are not only well-structured but also visually engaging.
 
 ## Key Features
 
