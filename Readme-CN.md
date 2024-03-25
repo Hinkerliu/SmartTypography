@@ -21,10 +21,10 @@
 安装步骤：
 
 1. 克隆仓库：
-git clone https://github.com/your-username/SmartTypesetting.git
+git clone https://github.com/your-username/SmartTypography.git
 
 2. 进入项目目录：
-cd SmartTypesetting
+cd SmartTypography
 
 3. 安装所需的依赖：
 npm install
